@@ -4,7 +4,7 @@ public class Hola_Mundojava {
 
         int precioTelevisor = 10;
 
-        System.out.println(precioTelevisor);
+        System.out.println("precioTelevisor");
 
     }
 }
